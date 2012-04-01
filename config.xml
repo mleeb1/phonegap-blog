@@ -4,10 +4,10 @@
 	id		= "com.melleeb.blog"
 	version 	= "1.0">
 
-	<name>Directory</name>
+	<name>Blog</name>
 
 	<description>
-		A Hello World App
+		A Sample Sencha Blog App
 	</description>
 
 	<author href="http://mleeb.wordpress.com"
